@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-
-
-WELCOME TO MY WEBSITE
-
+layout: home
 
 ---
+
+
+Welcome to my website
