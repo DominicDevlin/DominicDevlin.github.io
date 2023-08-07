@@ -30,7 +30,8 @@ twitter_username: no-twitter
 github_username:  DominicDevlin
 
 # Build settings
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
+remote_theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
