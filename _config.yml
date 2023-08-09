@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Dominic Devlin
+email: ddev825@aucklanduni.ac.nz
+description: Academic webpage of Dominic K. Devlin
 baseurl: ""
 url: ""
 
@@ -12,8 +12,8 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
+    Dominic K. Devlin<br/>
+    PhD Student<br/>
     University of Auckland
 
 location: >
