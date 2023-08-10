@@ -24,11 +24,17 @@ permalink: /talks/
 
 ## Talks
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+#<div class="jumbotron">
+#<div class="col-md-12 col-sm-12">
+#<h4>Example Research</h4>
 
-2023 CMP seminar, School of Biological Sciences, UoA
 </div>
-2023 new
+2023 Guest Lecture, BIOSCI 702, University of Auckland
 </div>
+2023 Distributed Ghost Workshop, Artificial Life Conference, Hokkaido University, Japan
+</div>
+2023 Universal Biology Institute Seminar, University of Tokyo, Japan
+</div>
+2023 CMP Seminar, School of Biological Sciences, University of Auckland
+</div>
+2022 Guest Lecture, BIOSCI 702, University of Auckland
