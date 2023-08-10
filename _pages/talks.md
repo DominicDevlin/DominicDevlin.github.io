@@ -21,3 +21,14 @@ permalink: /talks/
     margin-bottom:30px;
 }
 </style>
+
+## Talks
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Example Research</h4>
+
+2023 CMP seminar, School of Biological Sciences, UoA
+</div>
+2023 new
+</div>
