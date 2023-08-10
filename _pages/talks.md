@@ -30,11 +30,11 @@ permalink: /talks/
 
 </div>
 2023 Guest Lecture, BIOSCI 702, University of Auckland
-</div>
+<br/>
 2023 Distributed Ghost Workshop, Artificial Life Conference, Hokkaido University, Japan
-</div>
+<br/>
 2023 Universal Biology Institute Seminar, University of Tokyo, Japan
-</div>
+<br/>
 2023 CMP Seminar, School of Biological Sciences, University of Auckland
-</div>
+<br/>
 2022 Guest Lecture, BIOSCI 702, University of Auckland
